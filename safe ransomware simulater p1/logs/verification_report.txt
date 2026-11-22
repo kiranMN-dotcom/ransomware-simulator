@@ -1,0 +1,2 @@
+PASS: test1.txt matches
+PASS: test2.txt matches
